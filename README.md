@@ -1,4 +1,4 @@
-🌐 Big Data Architecture: Integración Hadoop & ElasticSearch
+## 🌐 Big Data Architecture: Integración Hadoop & ElasticSearch
 
 Este repositorio contiene la solución técnica a la práctica avanzada de Arquitectura de Big Data. El proyecto se centra en la interoperabilidad entre ecosistemas de procesamiento masivo (Hadoop/Hive) y motores de búsqueda y analítica en tiempo real (ElasticSearch/Kibana).
 
